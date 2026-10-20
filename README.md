@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋
 
-<!--
-**matteoimpaccio/matteoimpaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student in the United States with a background in Information Technology.
 
-Here are some ideas to get you started:
+I'm currently building my skills in software development and working toward a career in **AI Engineering**, with a focus on developing reliable, practical AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+- Strengthening my Python and software engineering fundamentals
+- Learning to build APIs and backend applications
+- Exploring Large Language Models (LLMs) and AI application development
+- Learning about testing, deployment, and production-ready systems
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- Git & GitHub
+- REST APIs
+- Machine Learning and LLM applications
+
+## 🚀 Projects
+
+I'm preparing to build and document practical projects as I progress in my learning journey. New projects will be added here as they become available.
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/matteo-impaccio/
